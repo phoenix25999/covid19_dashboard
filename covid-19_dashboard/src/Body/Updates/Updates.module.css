@@ -1,0 +1,10 @@
+.Updates{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Updates > div{
+    flex-basis: 49%;
+    height: 200px;
+    background: #fff;
+}

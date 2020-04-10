@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.NavBar{
+    padding: 0 30px;
+    display: flex;
+    align-items: center;
+}
+
+.NavBar img{
+    padding: 15px 0;
+}
+
+.NavBar ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+}
+
+.NavBar > ul li:first-child{
+    padding: 0;
+}
+
+.NavBar > ul li:nth-child(2) a{
+    font-size: 25px;
+    font-weight: 600;
+    color: #ff0019;
+    padding-right: 273px;
+}
+
+.NavBar ul li{
+    padding: 0 10px;
+    height: 100%;
+}
+
+.NavBar a {
+    text-decoration: none;
+    padding: 27px 0;
+    color: #000;
+    font-weight: 500;
+    height: 100%;
+}
+
+.NavBar a:hover{
+    border-bottom: 3px solid #ff0019;
+    color: #ff0019;
+}
+
+.NavBar > ul a:hover{
+    border-bottom: none;
+}

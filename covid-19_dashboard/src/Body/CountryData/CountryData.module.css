@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.CountryData{
+    display: flex;
+    padding: 15px 0;
+    justify-content: space-between;
+}
+
+.CountryData div:first-child{
+    width: 38%;
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.CountryData input{
+    width: 100%;
+    border-radius: 20px;
+    padding: 10px 5px;
+    border: 1px solid #808080;
+    background: #f7f7f7;
+    margin: 8px 0;
+}
+
+.CountryData div:last-child{
+    width: 60%;
+}
+
+.CountryData img{
+    border-radius: 10px;
+    width: 100%;
+}
+
+.CountryData ul{
+    list-style: none;
+    height: 300px;
+    overflow: auto;
+    padding: 10px;
+}
+
+.CountryData ul li{
+    padding: 15px;
+    margin: 5px 0;
+    box-shadow: 0px 0px 5px #d4cccc ;
+    border-radius: 5px;
+}

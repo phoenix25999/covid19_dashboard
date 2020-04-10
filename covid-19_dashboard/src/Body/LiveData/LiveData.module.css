@@ -1,0 +1,26 @@
+.LiveData{
+    display: flex;
+    justify-content:space-between;
+    flex-direction: row;
+}
+
+.LiveData > div{
+    flex-basis: 24%;
+    border-radius: 8px;
+    padding: 30px 20px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+
+.LiveData > div > div p:first-child{
+    font-size: 10px;
+    font-weight: 500;
+    color: #52586a;
+}
+
+.LiveData > div > div p:nth-child(2){
+    font-weight: 600;
+    color: #30313a;
+}
+
