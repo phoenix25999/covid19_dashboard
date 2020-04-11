@@ -5,7 +5,7 @@
 }
 
 .LiveData > div{
-    flex-basis: 24%;
+    /* flex-basis: 24%; */
     border-radius: 8px;
     padding: 30px 20px;
     background: #fff;

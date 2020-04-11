@@ -8,6 +8,7 @@
     background: #f7f7f7;
     padding: 10px 30px;
     display: flex;
+    justify-content: space-between;
 }
 
 .Body > div:first-child{
@@ -19,5 +20,5 @@
 .Body > div:last-child{
     display: flex;
     flex-direction: column;
-    width: 28%;
+    width: 27%;
 }
