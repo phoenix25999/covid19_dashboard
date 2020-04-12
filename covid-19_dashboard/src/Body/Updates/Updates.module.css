@@ -1,3 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
 .Updates{
     display: flex;
     justify-content: space-between;
@@ -5,6 +12,19 @@
 
 .Updates > div{
     flex-basis: 49%;
-    height: 200px;
+    
     background: #fff;
 }
+
+.Updates > div:last-child{
+    padding: 10px 20px;
+}
+
+.Updates h4{
+    color: #ff0019;
+    background: #d8acac;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 2px;
+}
+

@@ -5,25 +5,21 @@
    
 }
 
-.RecoveryRatio > div{
-    background: #f5f5f5;
-    border-radius: 50%;
-    height: 200px;
-    width: 70%;
-    margin: 10px auto;
-    position: relative;
+.RecoveryRatio p{
+    font-size: 14px;
+    color: #52586A;
 }
 
-.RecoveryRatio > div > div{
-    position: absolute;
-    background: #fff;
-    top: 50%;
-    left: 50%;
-    padding: 50px;
-    transform: translate(-50%, -50%);
-    border-radius: 50%;
-    box-shadow: 0px 0px 22px #2FD0AA26;
-
+.circle{
+    transform: translateY(0.25em);
 }
+
+.circle text{
+    font-size: 5px;
+    text-anchor: middle;
+}
+
+
+
 
 
