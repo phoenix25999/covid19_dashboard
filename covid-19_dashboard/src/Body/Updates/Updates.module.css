@@ -24,7 +24,13 @@
     color: #ff0019;
     background: #d8acac;
     display: inline-block;
-    padding: 5px;
+    padding: 3px;
     border-radius: 2px;
 }
-
+.Dot{
+    margin: 0 5px;
+    padding: 5px;
+    border-radius: 50%;
+    border: none;
+    background: #ff0019;
+}

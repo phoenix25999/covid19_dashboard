@@ -1,7 +1,5 @@
 import React from 'react';
 
-import rightArrow from '../../../assets/Arrow.png';
-
 import styles from './NewsBlock.module.css';
 
 const newsBlock = (props) => {
@@ -9,6 +7,7 @@ const newsBlock = (props) => {
     return(
         <div className={styles.NewsBlock}>
             <div>
+                
                 <img src={props.articles.image_src} alt="icon" />
                 <h5>Source:</h5>
                 <p>{props.articles.source}</p>

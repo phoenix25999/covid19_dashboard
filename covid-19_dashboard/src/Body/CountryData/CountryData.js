@@ -1,16 +1,19 @@
 import React, {Component} from 'react';
-
-import Map from '../../assets/map.png';
+import ReactToolTip from 'react-tooltip';
 
 import styles from './CountryData.module.css'
+import Map from './Map/Map';
 
 class CountryData extends Component{
 
     state={
-        countryData:[]
+        countryData:[],
+        csvCountryData: ""
     }
 
+
     componentDidMount(){
+        
         fetch('https://corona-api.com/countries')
             .then(res=> res.json())
             .then(result=> {
@@ -20,14 +23,45 @@ class CountryData extends Component{
                         name: result.data[i].name,
                         totalCases: result.data[i].latest_data.confirmed,
                         recoveredCases: result.data[i].latest_data.recovered,
-                        flagURL: 'https://www.countryflags.io/' + result.data[i].code + '/flat/32.png'
+                        flagURL: 'https://www.countryflags.io/' + result.data[i].code + '/flat/32.png',
+                        coordinates: result.data[i].coordinates
                     })
                 }
-
                 updatedCountryData.sort(this.compare);
                 this.setState({countryData: updatedCountryData});
-                console.log(this.state.countryData);
-            })       
+                let data = this.state.countryData.map(item=> {
+                    return{
+                        latitude: item.coordinates.latitude,
+                        longitude: item.coordinates.longitude,
+                        total: item.totalCases
+                    }
+                });
+
+                let csvData = this.objToCsv(data);
+                this.setState({csvCountryData: csvData});
+                // console.log(this.state.csvCountryData);
+                
+            });         
+                     
+    }
+
+    objToCsv = (data) => {
+                
+        const csvRows = [];
+        const headers = Object.keys(data[0])
+        csvRows.push(headers.join(','));
+
+        // console.log(csvRows)
+
+        for (const row of data) {
+            const values = headers.map(header => {
+            const escaped = ('' + row[header]).replace(/"/g, '\\"')
+            return `"${escaped}"`
+            })
+            csvRows.push(values.join(','))
+        }
+
+        return csvRows.join('\n')
     }
 
     compare = (a,b) => {
@@ -43,10 +77,11 @@ class CountryData extends Component{
         return comp;
     }
 
+    
+
 
     render(){
-
-
+        
         const countryList = this.state.countryData.map(res=>{
                                 return <li key={res.name}>
                                     <p><img src={res.flagURL} alt="flag" />{res.name}</p>
@@ -64,7 +99,7 @@ class CountryData extends Component{
                 </div>
 
                 <div>
-                    <img src={Map} alt="map" />
+                    <Map />
                 </div>
             </div>
     );

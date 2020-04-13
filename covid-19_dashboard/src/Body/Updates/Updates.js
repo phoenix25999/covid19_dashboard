@@ -53,9 +53,11 @@ class Updates extends Component{
                     <Slider >
                         {show}
                     </Slider>
-                    {/* <Dot slide={0} />
-                    <Dot slide={1} />
-                    <Dot slide={2} /> */}
+                    <div>
+                        <Dot slide={0}  className={styles.Dot}/>
+                        <Dot slide={1} className={styles.Dot}/>
+                        <Dot slide={2} className={styles.Dot}/>
+                    </div>
                 </CarouselProvider>
                 </div>
             </div>
