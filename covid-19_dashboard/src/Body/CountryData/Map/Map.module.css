@@ -1,0 +1,7 @@
+.Map h3, p{
+    display: inline-block;
+}
+.Map p{
+    font-weight: 500;
+    font-size: 12px;
+}

@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import ReactToolTip from 'react-tooltip';
+// import ReactToolTip from 'react-tooltip';
 
 import styles from './CountryData.module.css'
 import Map from './Map/Map';
@@ -24,44 +24,15 @@ class CountryData extends Component{
                         totalCases: result.data[i].latest_data.confirmed,
                         recoveredCases: result.data[i].latest_data.recovered,
                         flagURL: 'https://www.countryflags.io/' + result.data[i].code + '/flat/32.png',
-                        coordinates: result.data[i].coordinates
+                        coordinates: result.data[i].coordinates,
+                        code: result.data[i].code
                     })
                 }
                 updatedCountryData.sort(this.compare);
                 this.setState({countryData: updatedCountryData});
-                let data = this.state.countryData.map(item=> {
-                    return{
-                        latitude: item.coordinates.latitude,
-                        longitude: item.coordinates.longitude,
-                        total: item.totalCases
-                    }
-                });
-
-                let csvData = this.objToCsv(data);
-                this.setState({csvCountryData: csvData});
-                // console.log(this.state.csvCountryData);
                 
             });         
                      
-    }
-
-    objToCsv = (data) => {
-                
-        const csvRows = [];
-        const headers = Object.keys(data[0])
-        csvRows.push(headers.join(','));
-
-        // console.log(csvRows)
-
-        for (const row of data) {
-            const values = headers.map(header => {
-            const escaped = ('' + row[header]).replace(/"/g, '\\"')
-            return `"${escaped}"`
-            })
-            csvRows.push(values.join(','))
-        }
-
-        return csvRows.join('\n')
     }
 
     compare = (a,b) => {
