@@ -8,13 +8,14 @@ import MapChart from "./MapChart";
 function Map(){
   const [content, setContent] = useState("");
   return (
-    <div>
-        <div className={styles.Map}>
+    <div className={styles.Map}>
+{/*         
             <h3>COVID-19 Affected Areas</h3>
+            <div>
+               <span style={{background:'#ff0019'}}></span> <p>Most Affected</p>
+               <span style={{background:'#ffc4c6'}}></span> <p>Less Affected</p>
             
-                <p>Most Affected</p>
-                <p>Less Affected</p>
-        </div>
+            </div> */}
         <MapChart setTooltipContent={setContent} />
         <ReactToolTip>{content}</ReactToolTip>
     </div>

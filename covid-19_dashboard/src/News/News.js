@@ -1,13 +1,11 @@
 import React, {Component} from 'react';
 import{CarouselProvider, Slider, Slide, Dot} from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
+import NewsBlock from '../Body/Updates/NewsBlock/NewsBlock';
 
-import Chart from './Chart/Chart';
-import NewsBlock from './NewsBlock/NewsBlock';
+import styles from './News.module.css';
 
-import styles from './Updates.module.css';
-
-class Updates extends Component{
+class News extends Component{
 
     state = {
         articles: []
@@ -40,20 +38,7 @@ class Updates extends Component{
         }
         console.log(this.state.articles);
         return(
-            <div className={styles.Updates}> 
-                <div>
-                    <div className={styles.Heading}>
-                    <h3>Spread Trends</h3>
-                        <div>
-                            <button>Confirmed</button>
-                            <button>Recovered</button>
-                            <button>Deceased</button>
-                        </div>
-                    </div>
-                    <Chart />
-                </div>
-
-                <div>
+            <div className={styles.News}>
                     <h4>NEWS</h4>
                 <CarouselProvider
                     naturalSlideWidth={100}
@@ -68,10 +53,9 @@ class Updates extends Component{
                         <Dot slide={2} className={styles.Dot}/>
                     </div>
                 </CarouselProvider>
-                </div>
             </div>
         );
     }
 }
 
-export default Updates;
+export default News;

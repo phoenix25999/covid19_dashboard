@@ -17,6 +17,12 @@
     width: 72%;
 }
 
+.Body > div:first-child >div{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
 .Body > div:last-child{
     display: flex;
     flex-direction: column;

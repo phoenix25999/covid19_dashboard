@@ -34,3 +34,23 @@
     border: none;
     background: #ff0019;
 }
+
+.Heading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Heading button{
+    display: inline-block;
+    background: transparent;
+    border: none;
+    padding: 8px 5px;
+    border-radius: 5px;
+    font-weight: 600;
+    color: #30313a;
+}
+
+.Heading button:hover, .Heading button:active{
+    background: #808080;
+    color: #fff;
+}

@@ -1,7 +1,26 @@
-.Map h3, p{
+.Map{
+    width: 59%;
+    background: #fff;
+    border-radius: 10px;
+}
+
+
+/* .Map h3, p, div, span{
     display: inline-block;
 }
 .Map p{
     font-weight: 500;
     font-size: 12px;
 }
+
+.Map div{
+   padding-left: 54px;
+}
+
+.Map span{
+    padding: 7px;
+    margin: 0 2px;
+    border-radius: 3px;
+    vertical-align: middle;
+} */
+

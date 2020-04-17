@@ -19,19 +19,6 @@ class LiveData extends Component{
     }
     
     componentDidMount(){
-        // fetch('https://corona-virus-stats.herokuapp.com/api/v1/cases/general-stats')
-        //         .then(response=> response.json())
-        //         .then(result=> {
-                    
-        //             this.setState({
-        //                 total: result.data.total_cases,
-        //                 recovered: result.data.recovery_cases,
-        //                 active: result.data.currently_infected,
-        //                 death: result.data.death_cases
-        //             });
-        //             console.log(this.state);
-        //         })
-        //         .catch(err=> console.log(err));
         this.props.fetchData();
     }
 

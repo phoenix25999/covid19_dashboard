@@ -1,10 +1,7 @@
 import React, {Component} from 'react';
-// import ReactToolTip from 'react-tooltip';
 
-import styles from './CountryData.module.css'
-import Map from './Map/Map';
-
-class CountryData extends Component{
+import styles from './CountryStats.module.css';
+class CountryStats extends Component{
 
     state={
         countryData:[],
@@ -69,20 +66,16 @@ class CountryData extends Component{
                                         </li>
                                 });       
         return(
-            <div className={styles.CountryData}>
+            <div className={styles.CountryStats}>
                 <div>
                     <input type="text" placeholder="Search" onChange={this.onChangeHandler} />
                     <ul>
                         {countryList}
                     </ul>
                 </div>
-
-                <div>
-                    <Map />
-                </div>
             </div>
     );
     }
 }
 
-export default CountryData;
+export default CountryStats;

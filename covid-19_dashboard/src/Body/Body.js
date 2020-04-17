@@ -1,7 +1,9 @@
 import React from 'react';
 import LiveData from './LiveData/LiveData';
-import CountryData from './CountryData/CountryData';
-import Updates from './Updates/Updates';
+import CountryStats from '../CountryStats/CountryStats';
+import Map from './CountryData/Map/Map';
+import SpreadTrends from '../SpreadTrends/SpreadTrends';
+import News from '../News/News';
 import RecoveryRatio from './RecoveryRatio/RecoveryRatio';
 import Feeds from './Feeds/Feeds';
 
@@ -12,9 +14,15 @@ const body = () => {
     return(
         <div className={styles.Body}>
                 <div>
-                <LiveData />
-                <CountryData />
-                <Updates />
+                    <LiveData />
+                    <div>
+                        <CountryStats />
+                        <Map />
+                    </div>
+                    <div>
+                        <SpreadTrends />
+                        <News />
+                    </div>
                 </div>
                 
                 <div>
