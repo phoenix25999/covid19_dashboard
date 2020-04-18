@@ -1,0 +1,38 @@
+.Cases{
+    flex-basis: 24%;
+    border-radius: 8px;
+    padding: 30px 20px;
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 5px 20px #1425401A;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+@media(max-width:1175px){
+    .Cases{
+        flex-direction: column;
+    }
+}
+
+@media(max-width:740px){
+    .Cases{
+        flex-basis: 49%;
+        flex-direction: row;
+    }
+}
+
+@media(max-width:600px){
+    .Cases{
+        flex-direction: column;
+    }
+}
+
+@media(max-width:500px){
+    .Cases{
+        flex-basis: 70%;
+        flex-direction: row;
+    }
+}
+

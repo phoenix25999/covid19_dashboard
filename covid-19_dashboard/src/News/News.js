@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import{CarouselProvider, Slider, Slide, Dot} from 'pure-react-carousel';
 import 'pure-react-carousel/dist/react-carousel.es.css';
-import NewsBlock from '../Body/Updates/NewsBlock/NewsBlock';
+import NewsBlock from './NewsBlock/NewsBlock';
 
 import styles from './News.module.css';
 
@@ -12,7 +12,7 @@ class News extends Component{
     }
 
     componentDidMount(){
-        fetch('https://newsapi.org/v2/top-headlines?q=COVID&from=2020-04-10&sortBy=publishedAt&apiKey=59d820ab09d94ab295dd95bdfee6f56b&pageSize=10')
+        fetch('https://newsapi.org/v2/top-headlines?q=COVID&from=2020-04-10&sortBy=publishedAt&apiKey=59d820ab09d94ab295dd95bdfee6f56b&pageSize=10&language=en')
             .then(response => response.json())
             .then(res=> {
                 const articleList = [];

@@ -1,11 +1,11 @@
 import React from 'react';
-import LiveData from './LiveData/LiveData';
+import LiveData from '../LiveData/LiveData';
 import CountryStats from '../CountryStats/CountryStats';
-import Map from './CountryData/Map/Map';
+import Map from '../Map/Map';
 import SpreadTrends from '../SpreadTrends/SpreadTrends';
 import News from '../News/News';
-import RecoveryRatio from './RecoveryRatio/RecoveryRatio';
-import Feeds from './Feeds/Feeds';
+import RecoveryRatio from '../RecoveryRatio/RecoveryRatio';
+import Feeds from '../Feeds/Feeds';
 
 import styles from './Body.module.css';
 
@@ -15,11 +15,11 @@ const body = () => {
         <div className={styles.Body}>
                 <div>
                     <LiveData />
-                    <div>
+                    <div className={styles.Country}>
                         <CountryStats />
                         <Map />
                     </div>
-                    <div>
+                    <div className={styles.Updates}>
                         <SpreadTrends />
                         <News />
                     </div>

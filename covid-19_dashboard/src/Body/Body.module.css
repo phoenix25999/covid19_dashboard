@@ -9,22 +9,40 @@
     padding: 10px 30px;
     display: flex;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .Body > div:first-child{
     display: flex;
     flex-direction: column;
-    width: 72%;
+    flex-basis: 72%;
 }
 
-.Body > div:first-child >div{
+.Country{
     display: flex;
     justify-content: space-between;
-    margin-top: 10px;
 }
+
+.Updates{
+    display: flex;
+    justify-content: space-between;
+}
+
 
 .Body > div:last-child{
     display: flex;
     flex-direction: column;
-    width: 27%;
+    flex-basis: 27%;
+}
+
+@media(max-width:760px){
+    .Country{
+        flex-direction: column;
+    }
+}
+
+@media(max-width:1024px){
+    .Updates{
+        flex-direction: column;
+    }
 }

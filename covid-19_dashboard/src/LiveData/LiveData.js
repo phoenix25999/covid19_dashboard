@@ -1,9 +1,9 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import Cases from './Cases/Cases';
-import * as actions from '../../store/action/index';
+import * as actions from '../store/action/index';
 
-import UpArrow from '../../assets/Up.png';
+import UpArrow from '../assets/Up.png';
 
 import styles from './LiveData.module.css';
 
@@ -11,13 +11,6 @@ import styles from './LiveData.module.css';
 
 class LiveData extends Component{
 
-    state = {
-        total: 0,
-        recovered: 0,
-        active: 0,
-        death: 0 
-    }
-    
     componentDidMount(){
         this.props.fetchData();
     }

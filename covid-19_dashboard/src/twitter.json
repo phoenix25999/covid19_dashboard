@@ -1,0 +1,2926 @@
+[
+    {
+        "created_at": "Fri Apr 17 20:29:53 +0000 2020",
+        "id": 1251246527227613201,
+        "id_str": "1251246527227613201",
+        "text": "The full briefing on #COVID19 by @DrTedros 👇\nhttps://t.co/rVKnkY3Xe5",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        21,
+                        29
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrTedros",
+                    "name": "Tedros Adhanom Ghebreyesus",
+                    "id": 189868631,
+                    "id_str": "189868631",
+                    "indices": [
+                        33,
+                        42
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/rVKnkY3Xe5",
+                    "expanded_url": "https://bit.ly/3ahg4Wl",
+                    "display_url": "bit.ly/3ahg4Wl",
+                    "indices": [
+                        45,
+                        68
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198890038214663,
+        "in_reply_to_status_id_str": "1251198890038214663",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 23,
+        "favorite_count": 105,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 20:20:03 +0000 2020",
+        "id": 1251244052785377280,
+        "id_str": "1251244052785377280",
+        "text": "RT @DrTedros: Great call today with 🇫🇮 Prime Minister @MarinSanna on the #COVID19 response. I thanked her for #Finland's solidarity &amp; commi…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        73,
+                        81
+                    ]
+                },
+                {
+                    "text": "Finland",
+                    "indices": [
+                        110,
+                        118
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrTedros",
+                    "name": "Tedros Adhanom Ghebreyesus",
+                    "id": 189868631,
+                    "id_str": "189868631",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "MarinSanna",
+                    "name": "Sanna Marin",
+                    "id": 1086378912,
+                    "id_str": "1086378912",
+                    "indices": [
+                        54,
+                        65
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Apr 17 20:09:24 +0000 2020",
+            "id": 1251241371501027329,
+            "id_str": "1251241371501027329",
+            "text": "Great call today with 🇫🇮 Prime Minister @MarinSanna on the #COVID19 response. I thanked her for #Finland's solidari… https://t.co/mmc1nq2acx",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "COVID19",
+                        "indices": [
+                            59,
+                            67
+                        ]
+                    },
+                    {
+                        "text": "Finland",
+                        "indices": [
+                            96,
+                            104
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "MarinSanna",
+                        "name": "Sanna Marin",
+                        "id": 1086378912,
+                        "id_str": "1086378912",
+                        "indices": [
+                            40,
+                            51
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/mmc1nq2acx",
+                        "expanded_url": "https://twitter.com/i/web/status/1251241371501027329",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            117,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 189868631,
+                "id_str": "189868631",
+                "name": "Tedros Adhanom Ghebreyesus",
+                "screen_name": "DrTedros",
+                "location": "Geneva, Switzerland",
+                "description": "Director-General of the World Health Organization",
+                "url": "https://t.co/wVulKuROWG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wVulKuROWG",
+                                "expanded_url": "http://www.who.int",
+                                "display_url": "who.int",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1002452,
+                "friends_count": 870,
+                "listed_count": 3858,
+                "created_at": "Sun Sep 12 13:09:27 +0000 2010",
+                "favourites_count": 7910,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 22780,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/189868631/1586896714",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 95,
+            "favorite_count": 489,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 95,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 19:14:00 +0000 2020",
+        "id": 1251227428065771520,
+        "id_str": "1251227428065771520",
+        "text": "RT @DrTedros: This is an opportunity to express our solidarity with frontline workers &amp; to mobilize philanthropists, the private sector and…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrTedros",
+                    "name": "Tedros Adhanom Ghebreyesus",
+                    "id": 189868631,
+                    "id_str": "189868631",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Apr 17 18:15:36 +0000 2020",
+            "id": 1251212732306784259,
+            "id_str": "1251212732306784259",
+            "text": "This is an opportunity to express our solidarity with frontline workers &amp; to mobilize philanthropists, the private… https://t.co/KDpNMv3oVL",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/KDpNMv3oVL",
+                        "expanded_url": "https://twitter.com/i/web/status/1251212732306784259",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            120,
+                            143
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1251210952177049602,
+            "in_reply_to_status_id_str": "1251210952177049602",
+            "in_reply_to_user_id": 189868631,
+            "in_reply_to_user_id_str": "189868631",
+            "in_reply_to_screen_name": "DrTedros",
+            "user": {
+                "id": 189868631,
+                "id_str": "189868631",
+                "name": "Tedros Adhanom Ghebreyesus",
+                "screen_name": "DrTedros",
+                "location": "Geneva, Switzerland",
+                "description": "Director-General of the World Health Organization",
+                "url": "https://t.co/wVulKuROWG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wVulKuROWG",
+                                "expanded_url": "http://www.who.int",
+                                "display_url": "who.int",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1002452,
+                "friends_count": 870,
+                "listed_count": 3858,
+                "created_at": "Sun Sep 12 13:09:27 +0000 2010",
+                "favourites_count": 7910,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 22780,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/189868631/1586896714",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 78,
+            "favorite_count": 384,
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 78,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 19:13:57 +0000 2020",
+        "id": 1251227415000559619,
+        "id_str": "1251227415000559619",
+        "text": "RT @DrTedros: One world, #TogetherAtHome is the result of a close collaboration with @Hughcevans &amp; @ladygaga to bring entertainment, joy &amp;…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "TogetherAtHome",
+                    "indices": [
+                        25,
+                        40
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrTedros",
+                    "name": "Tedros Adhanom Ghebreyesus",
+                    "id": 189868631,
+                    "id_str": "189868631",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "Hughcevans",
+                    "name": "Hugh Evans",
+                    "id": 20708202,
+                    "id_str": "20708202",
+                    "indices": [
+                        85,
+                        96
+                    ]
+                },
+                {
+                    "screen_name": "ladygaga",
+                    "name": "Lady Gaga",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        103,
+                        112
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Apr 17 18:08:32 +0000 2020",
+            "id": 1251210952177049602,
+            "id_str": "1251210952177049602",
+            "text": "One world, #TogetherAtHome is the result of a close collaboration with @Hughcevans &amp; @ladygaga to bring entertainme… https://t.co/8Cfe94YiZW",
+            "truncated": true,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "TogetherAtHome",
+                        "indices": [
+                            11,
+                            26
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "Hughcevans",
+                        "name": "Hugh Evans",
+                        "id": 20708202,
+                        "id_str": "20708202",
+                        "indices": [
+                            71,
+                            82
+                        ]
+                    },
+                    {
+                        "screen_name": "ladygaga",
+                        "name": "Lady Gaga",
+                        "id": 14230524,
+                        "id_str": "14230524",
+                        "indices": [
+                            89,
+                            98
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/8Cfe94YiZW",
+                        "expanded_url": "https://twitter.com/i/web/status/1251210952177049602",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            121,
+                            144
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": 1251210027744010242,
+            "in_reply_to_status_id_str": "1251210027744010242",
+            "in_reply_to_user_id": 189868631,
+            "in_reply_to_user_id_str": "189868631",
+            "in_reply_to_screen_name": "DrTedros",
+            "user": {
+                "id": 189868631,
+                "id_str": "189868631",
+                "name": "Tedros Adhanom Ghebreyesus",
+                "screen_name": "DrTedros",
+                "location": "Geneva, Switzerland",
+                "description": "Director-General of the World Health Organization",
+                "url": "https://t.co/wVulKuROWG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wVulKuROWG",
+                                "expanded_url": "http://www.who.int",
+                                "display_url": "who.int",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1002452,
+                "friends_count": 870,
+                "listed_count": 3858,
+                "created_at": "Sun Sep 12 13:09:27 +0000 2010",
+                "favourites_count": 7910,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 22780,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/189868631/1586896714",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1250158045658632193,
+            "quoted_status_id_str": "1250158045658632193",
+            "quoted_status": {
+                "created_at": "Tue Apr 14 20:24:39 +0000 2020",
+                "id": 1250158045658632193,
+                "id_str": "1250158045658632193",
+                "text": "Can’t wait for you to see what we’ve put together! Tune in! 💕 https://t.co/v4owoA8QdM",
+                "truncated": false,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/v4owoA8QdM",
+                            "expanded_url": "https://twitter.com/GlblCtzn/status/1250110300449316864",
+                            "display_url": "twitter.com/GlblCtzn/statu…",
+                            "indices": [
+                                62,
+                                85
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "name": "Lady Gaga",
+                    "screen_name": "ladygaga",
+                    "location": "",
+                    "description": "“STUPID LOVE” ❣️ OUT NOW https://t.co/XQDaobKRad | “Chromatica” ⚔️💓 #LG6 https://t.co/ejnFHP8bgX",
+                    "url": "https://t.co/6CDfvJPhW0",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/6CDfvJPhW0",
+                                    "expanded_url": "http://ladygaga.com",
+                                    "display_url": "ladygaga.com",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/XQDaobKRad",
+                                    "expanded_url": "http://smarturl.it/StupidLove",
+                                    "display_url": "smarturl.it/StupidLove",
+                                    "indices": [
+                                        25,
+                                        48
+                                    ]
+                                },
+                                {
+                                    "url": "https://t.co/ejnFHP8bgX",
+                                    "expanded_url": "http://smarturl.it/Chromatica",
+                                    "display_url": "smarturl.it/Chromatica",
+                                    "indices": [
+                                        73,
+                                        96
+                                    ]
+                                }
+                            ]
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 81228736,
+                    "friends_count": 123148,
+                    "listed_count": 216727,
+                    "created_at": "Wed Mar 26 22:37:48 +0000 2008",
+                    "favourites_count": 2071,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 9127,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": true,
+                    "profile_background_color": "0A090A",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/1232735928621264897/Ebh7dbYX_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1232735928621264897/Ebh7dbYX_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14230524/1586120595",
+                    "profile_link_color": "050505",
+                    "profile_sidebar_border_color": "000000",
+                    "profile_sidebar_fill_color": "DDFFCC",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": true,
+                "quoted_status_id": 1250110300449316864,
+                "quoted_status_id_str": "1250110300449316864",
+                "retweet_count": 10724,
+                "favorite_count": 55087,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 86,
+            "favorite_count": 399,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1250158045658632193,
+        "quoted_status_id_str": "1250158045658632193",
+        "retweet_count": 86,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 19:13:54 +0000 2020",
+        "id": 1251227403864678402,
+        "id_str": "1251227403864678402",
+        "text": "RT @DrTedros: Tomorrow, @WHO is joining forces with many of the world’s top musicians, comedians and humanitarians, led by @ladygaga, for t…",
+        "truncated": false,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrTedros",
+                    "name": "Tedros Adhanom Ghebreyesus",
+                    "id": 189868631,
+                    "id_str": "189868631",
+                    "indices": [
+                        3,
+                        12
+                    ]
+                },
+                {
+                    "screen_name": "WHO",
+                    "name": "World Health Organization (WHO)",
+                    "id": 14499829,
+                    "id_str": "14499829",
+                    "indices": [
+                        24,
+                        28
+                    ]
+                },
+                {
+                    "screen_name": "ladygaga",
+                    "name": "Lady Gaga",
+                    "id": 14230524,
+                    "id_str": "14230524",
+                    "indices": [
+                        123,
+                        132
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "created_at": "Fri Apr 17 18:04:51 +0000 2020",
+            "id": 1251210027744010242,
+            "id_str": "1251210027744010242",
+            "text": "Tomorrow, @WHO is joining forces with many of the world’s top musicians, comedians and humanitarians, led by… https://t.co/J8veimKpSM",
+            "truncated": true,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "WHO",
+                        "name": "World Health Organization (WHO)",
+                        "id": 14499829,
+                        "id_str": "14499829",
+                        "indices": [
+                            10,
+                            14
+                        ]
+                    }
+                ],
+                "urls": [
+                    {
+                        "url": "https://t.co/J8veimKpSM",
+                        "expanded_url": "https://twitter.com/i/web/status/1251210027744010242",
+                        "display_url": "twitter.com/i/web/status/1…",
+                        "indices": [
+                            110,
+                            133
+                        ]
+                    }
+                ]
+            },
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 189868631,
+                "id_str": "189868631",
+                "name": "Tedros Adhanom Ghebreyesus",
+                "screen_name": "DrTedros",
+                "location": "Geneva, Switzerland",
+                "description": "Director-General of the World Health Organization",
+                "url": "https://t.co/wVulKuROWG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wVulKuROWG",
+                                "expanded_url": "http://www.who.int",
+                                "display_url": "who.int",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1002452,
+                "friends_count": 870,
+                "listed_count": 3858,
+                "created_at": "Sun Sep 12 13:09:27 +0000 2010",
+                "favourites_count": 7910,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": true,
+                "statuses_count": 22780,
+                "lang": null,
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1242902762481946627/X2gdGC6W_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/189868631/1586896714",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": null,
+                "follow_request_sent": null,
+                "notifications": null,
+                "translator_type": "none"
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": true,
+            "quoted_status_id": 1250938650310914049,
+            "quoted_status_id_str": "1250938650310914049",
+            "quoted_status": {
+                "created_at": "Fri Apr 17 00:06:30 +0000 2020",
+                "id": 1250938650310914049,
+                "id_str": "1250938650310914049",
+                "text": "SAVE THE DATE: 18 APRIL 2020\n\nOne World: #TogetherAtHome is a historic, global broadcast to support the fight again… https://t.co/we61YNw6Zh",
+                "truncated": true,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "TogetherAtHome",
+                            "indices": [
+                                41,
+                                56
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "user_mentions": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/we61YNw6Zh",
+                            "expanded_url": "https://twitter.com/i/web/status/1250938650310914049",
+                            "display_url": "twitter.com/i/web/status/1…",
+                            "indices": [
+                                117,
+                                140
+                            ]
+                        }
+                    ]
+                },
+                "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 14499829,
+                    "id_str": "14499829",
+                    "name": "World Health Organization (WHO)",
+                    "screen_name": "WHO",
+                    "location": "Geneva, Switzerland",
+                    "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+                    "url": "https://t.co/wVulKuROWG",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/wVulKuROWG",
+                                    "expanded_url": "http://www.who.int",
+                                    "display_url": "who.int",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 7429355,
+                    "friends_count": 1719,
+                    "listed_count": 31935,
+                    "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+                    "favourites_count": 10621,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": true,
+                    "verified": true,
+                    "statuses_count": 50197,
+                    "lang": null,
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "D0ECF8",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+                    "profile_link_color": "0396DB",
+                    "profile_sidebar_border_color": "8C8C8C",
+                    "profile_sidebar_fill_color": "D9D9D9",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "has_extended_profile": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": null,
+                    "follow_request_sent": null,
+                    "notifications": null,
+                    "translator_type": "regular"
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "is_quote_status": false,
+                "retweet_count": 1988,
+                "favorite_count": 3526,
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 367,
+            "favorite_count": 1013,
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "quoted_status_id": 1250938650310914049,
+        "quoted_status_id_str": "1250938650310914049",
+        "retweet_count": 367,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:20:36 +0000 2020",
+        "id": 1251198890038214663,
+        "id_str": "1251198890038214663",
+        "text": "\"I’m pleased to say that from Monday, we will be providing simultaneous interpretation for these press conferences… https://t.co/9goFqca5O2",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/9goFqca5O2",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198890038214663",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        116,
+                        139
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198771935010817,
+        "in_reply_to_status_id_str": "1251198771935010817",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 70,
+        "favorite_count": 334,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:20:08 +0000 2020",
+        "id": 1251198771935010817,
+        "id_str": "1251198771935010817",
+        "text": "\"This week we launched Tamil, Sinhala, Bulgarian, Greek, Italian and Hungarian, and we plan to launch Polish and Ba… https://t.co/g0bOjYGCgA",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/g0bOjYGCgA",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198771935010817",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198658453929985,
+        "in_reply_to_status_id_str": "1251198658453929985",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 44,
+        "favorite_count": 204,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:19:40 +0000 2020",
+        "id": 1251198658453929985,
+        "id_str": "1251198658453929985",
+        "text": "\"Finally, WHO is committed to keeping the world informed in as many ways as possible, in as many languages as possi… https://t.co/IN81vSnBVQ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/IN81vSnBVQ",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198658453929985",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198547627782144,
+        "in_reply_to_status_id_str": "1251198547627782144",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42,
+        "favorite_count": 147,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:19:14 +0000 2020",
+        "id": 1251198547627782144,
+        "id_str": "1251198547627782144",
+        "text": "\"WHO has worked closely with the @OIEAnimalHealth &amp; @FAO to develop guidance on the safe operation of markets.\nBeca… https://t.co/bqVbsc3nRd",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "OIEAnimalHealth",
+                    "name": "OIE Animal Health",
+                    "id": 2826426188,
+                    "id_str": "2826426188",
+                    "indices": [
+                        33,
+                        49
+                    ]
+                },
+                {
+                    "screen_name": "FAO",
+                    "name": "FAO",
+                    "id": 19649135,
+                    "id_str": "19649135",
+                    "indices": [
+                        56,
+                        60
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/bqVbsc3nRd",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198547627782144",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198369898418177,
+        "in_reply_to_status_id_str": "1251198369898418177",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 47,
+        "favorite_count": 131,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:18:32 +0000 2020",
+        "id": 1251198369898418177,
+        "id_str": "1251198369898418177",
+        "text": "\"WHO’s position is that when these markets are allowed to reopen, it should only be on the condition that they conf… https://t.co/c8NbzKkR6p",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/c8NbzKkR6p",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198369898418177",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198296728784896,
+        "in_reply_to_status_id_str": "1251198296728784896",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 56,
+        "favorite_count": 177,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:18:14 +0000 2020",
+        "id": 1251198296728784896,
+        "id_str": "1251198296728784896",
+        "text": "\"I would like to clarify WHO’s position on “wet markets”.\n\nWet markets are an important source of affordable food a… https://t.co/dkp8SL192r",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/dkp8SL192r",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198296728784896",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251198204336582656,
+        "in_reply_to_status_id_str": "1251198204336582656",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 132,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:17:52 +0000 2020",
+        "id": 1251198204336582656,
+        "id_str": "1251198204336582656",
+        "text": "\"Today I also spoke to the President of the European Commission, @vonderleyen, and the Prime Minister of Finland,… https://t.co/sKNH7WrxXr",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "vonderleyen",
+                    "name": "Ursula von der Leyen",
+                    "id": 1146329871418843136,
+                    "id_str": "1146329871418843136",
+                    "indices": [
+                        65,
+                        77
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/sKNH7WrxXr",
+                    "expanded_url": "https://twitter.com/i/web/status/1251198204336582656",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        115,
+                        138
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251197993736384513,
+        "in_reply_to_status_id_str": "1251197993736384513",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 36,
+        "favorite_count": 117,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:17:02 +0000 2020",
+        "id": 1251197993736384513,
+        "id_str": "1251197993736384513",
+        "text": "\"I also spoke to the Prime Minister of #Barbados, @miaamormottley, and the current chair of Caribbean countries abo… https://t.co/U9dAOerHAN",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "Barbados",
+                    "indices": [
+                        39,
+                        48
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "miaamormottley",
+                    "name": "Mia Amor Mottley",
+                    "id": 74618166,
+                    "id_str": "74618166",
+                    "indices": [
+                        50,
+                        65
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/U9dAOerHAN",
+                    "expanded_url": "https://twitter.com/i/web/status/1251197993736384513",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251197614873358338,
+        "in_reply_to_status_id_str": "1251197614873358338",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 31,
+        "favorite_count": 137,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:15:32 +0000 2020",
+        "id": 1251197614873358338,
+        "id_str": "1251197614873358338",
+        "text": "\"Yesterday I spoke to 🇫🇷 President @EmmanuelMacron, @BillGates and other partners to discuss how to prevent another… https://t.co/3R7G5q64KX",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "EmmanuelMacron",
+                    "name": "Emmanuel Macron",
+                    "id": 1976143068,
+                    "id_str": "1976143068",
+                    "indices": [
+                        35,
+                        50
+                    ]
+                },
+                {
+                    "screen_name": "BillGates",
+                    "name": "Bill Gates",
+                    "id": 50393960,
+                    "id_str": "50393960",
+                    "indices": [
+                        52,
+                        62
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/3R7G5q64KX",
+                    "expanded_url": "https://twitter.com/i/web/status/1251197614873358338",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251197613619195904,
+        "in_reply_to_status_id_str": "1251197613619195904",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 39,
+        "favorite_count": 179,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:15:31 +0000 2020",
+        "id": 1251197613619195904,
+        "id_str": "1251197613619195904",
+        "text": "\"In addition to tests, we’re also working hard to accelerate the development, production &amp; equitable distribution o… https://t.co/2iYSLiThtJ",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/2iYSLiThtJ",
+                    "expanded_url": "https://twitter.com/i/web/status/1251197613619195904",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        121,
+                        144
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251197290452258817,
+        "in_reply_to_status_id_str": "1251197290452258817",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 30,
+        "favorite_count": 152,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:14:14 +0000 2020",
+        "id": 1251197290452258817,
+        "id_str": "1251197290452258817",
+        "text": "\"To further strengthen support for Africa, earlier this afternoon I spoke with 🇿🇦 President @CyrilRamaphosa;… https://t.co/wCg5Noqo4K",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "CyrilRamaphosa",
+                    "name": "Cyril Ramaphosa 🇿🇦 #StayHome",
+                    "id": 2987156301,
+                    "id_str": "2987156301",
+                    "indices": [
+                        92,
+                        107
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/wCg5Noqo4K",
+                    "expanded_url": "https://twitter.com/i/web/status/1251197290452258817",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        110,
+                        133
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251196347971252224,
+        "in_reply_to_status_id_str": "1251196347971252224",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 27,
+        "favorite_count": 83,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:10:30 +0000 2020",
+        "id": 1251196347971252224,
+        "id_str": "1251196347971252224",
+        "text": "\"The @AfricaCDC announced yesterday that more than 1 million tests for #COVID19 will be rolled out across the conti… https://t.co/HS8xAMTccO",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        71,
+                        79
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "AfricaCDC",
+                    "name": "Africa CDC",
+                    "id": 3149176301,
+                    "id_str": "3149176301",
+                    "indices": [
+                        5,
+                        15
+                    ]
+                }
+            ],
+            "urls": [
+                {
+                    "url": "https://t.co/HS8xAMTccO",
+                    "expanded_url": "https://twitter.com/i/web/status/1251196347971252224",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251195852753944578,
+        "in_reply_to_status_id_str": "1251195852753944578",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 49,
+        "favorite_count": 145,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:08:32 +0000 2020",
+        "id": 1251195852753944578,
+        "id_str": "1251195852753944578",
+        "text": "\"With WHO support, most countries in Africa now have the capacity to test for #COVID19, but there are still signifi… https://t.co/4mK7RYlsKL",
+        "truncated": true,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        78,
+                        86
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/4mK7RYlsKL",
+                    "expanded_url": "https://twitter.com/i/web/status/1251195852753944578",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251195850220503042,
+        "in_reply_to_status_id_str": "1251195850220503042",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 53,
+        "favorite_count": 156,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:08:31 +0000 2020",
+        "id": 1251195850220503042,
+        "id_str": "1251195850220503042",
+        "text": "\"With the current challenge of obtaining testing kits, it’s likely that the real numbers are higher\"-@DrTedros #COVID19",
+        "truncated": false,
+        "entities": {
+            "hashtags": [
+                {
+                    "text": "COVID19",
+                    "indices": [
+                        111,
+                        119
+                    ]
+                }
+            ],
+            "symbols": [],
+            "user_mentions": [
+                {
+                    "screen_name": "DrTedros",
+                    "name": "Tedros Adhanom Ghebreyesus",
+                    "id": 189868631,
+                    "id_str": "189868631",
+                    "indices": [
+                        101,
+                        110
+                    ]
+                }
+            ],
+            "urls": []
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251195644934598659,
+        "in_reply_to_status_id_str": "1251195644934598659",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 42,
+        "favorite_count": 100,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    },
+    {
+        "created_at": "Fri Apr 17 17:07:42 +0000 2020",
+        "id": 1251195644934598659,
+        "id_str": "1251195644934598659",
+        "text": "\"But although we see encouraging signs in some countries, there are worrying trends in others.\n\nIn the past week th… https://t.co/hc9SJSUHY3",
+        "truncated": true,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+                {
+                    "url": "https://t.co/hc9SJSUHY3",
+                    "expanded_url": "https://twitter.com/i/web/status/1251195644934598659",
+                    "display_url": "twitter.com/i/web/status/1…",
+                    "indices": [
+                        117,
+                        140
+                    ]
+                }
+            ]
+        },
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "in_reply_to_status_id": 1251195519310979072,
+        "in_reply_to_status_id_str": "1251195519310979072",
+        "in_reply_to_user_id": 14499829,
+        "in_reply_to_user_id_str": "14499829",
+        "in_reply_to_screen_name": "WHO",
+        "user": {
+            "id": 14499829,
+            "id_str": "14499829",
+            "name": "World Health Organization (WHO)",
+            "screen_name": "WHO",
+            "location": "Geneva, Switzerland",
+            "description": "We are the #UnitedNations’ health agency. We are committed to achieving better health for everyone, everywhere - #HealthForAll",
+            "url": "https://t.co/wVulKuROWG",
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/wVulKuROWG",
+                            "expanded_url": "http://www.who.int",
+                            "display_url": "who.int",
+                            "indices": [
+                                0,
+                                23
+                            ]
+                        }
+                    ]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 7429355,
+            "friends_count": 1719,
+            "listed_count": 31935,
+            "created_at": "Wed Apr 23 19:56:27 +0000 2008",
+            "favourites_count": 10621,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": true,
+            "statuses_count": 50197,
+            "lang": null,
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "D0ECF8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/875476478988886016/_l61qZdR_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/14499829/1582794472",
+            "profile_link_color": "0396DB",
+            "profile_sidebar_border_color": "8C8C8C",
+            "profile_sidebar_fill_color": "D9D9D9",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": true,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": null,
+            "follow_request_sent": null,
+            "notifications": null,
+            "translator_type": "regular"
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 35,
+        "favorite_count": 74,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }
+]

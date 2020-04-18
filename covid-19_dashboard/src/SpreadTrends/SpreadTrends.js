@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {Line} from 'react-chartjs-2';
-// import Chart from '../Body/Updates/Chart/Chart';
 
 import styles from './SpreadTrends.module.css';
 
@@ -22,14 +21,14 @@ class SpreadTrends extends Component{
                 let casesArr = Object.keys(res).map(key=> res[key]);
                 
                 let total = casesArr[0];
-                let dates = Object.keys(total);
-                let cnfCases = Object.values(total);
+                let dates = Object.keys(total).reverse().slice(0,7).reverse();
+                let cnfCases = Object.values(total).reverse().slice(0,7).reverse();
 
                 let recovered = casesArr[1];
-                let recoveredCases = Object.values(recovered);
+                let recoveredCases = Object.values(recovered).reverse().slice(0,7).reverse();
 
                 let death = casesArr[2];
-                let deathCases = Object.values(death);
+                let deathCases = Object.values(death).reverse().slice(0,7).reverse();
 
                 this.setState({dates:dates, totalCases: cnfCases, recCases: recoveredCases, deaths:deathCases});
                 
@@ -107,11 +106,9 @@ class SpreadTrends extends Component{
                             display: true,
                             backgroundColor: "#ff0019"
                         },
-                        showLines: false,
-                        maintainAspectRatio: false
+                        
                     }}
-                    height={200}
-                    width={300}
+                    
                     
             />
             </div>

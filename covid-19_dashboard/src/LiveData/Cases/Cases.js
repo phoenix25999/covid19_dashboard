@@ -1,7 +1,7 @@
 import React from 'react';
 
 
-import Graph from '../../../assets/Graph.png';
+import Graph from '../../assets/Graph.png';
 
 import styles from './Cases.module.css';
 

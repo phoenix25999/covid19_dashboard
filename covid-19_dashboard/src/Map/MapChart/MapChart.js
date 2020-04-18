@@ -24,7 +24,7 @@ const geoUrl =
 
 const colorScale = scaleLinear()
   .domain([2000, 80000])
-  .range(["#FFC4C6", "#ff0019"]);
+  .range(["#ffc4c6", "#ff0019"]);
 
 const MapChart = ({ setTooltipContent }, props) => {
   const [data, setData] = useState([]);
@@ -37,10 +37,11 @@ const MapChart = ({ setTooltipContent }, props) => {
   
   return (
     <ComposableMap
+    style={{background:'#fbf6f6', borderRadius:'7px'}}
       data-tip=""
       projectionConfig={{
         rotate: [-10, 0, 0],
-        scale: 175
+        scale: 167
       }}
     >
       <ZoomableGroup >

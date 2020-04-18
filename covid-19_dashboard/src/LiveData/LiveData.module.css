@@ -1,16 +1,7 @@
 .LiveData{
     display: flex;
     justify-content:space-between;
-    flex-direction: row;
-}
-
-.LiveData > div{
-    /* flex-basis: 24%; */
-    border-radius: 8px;
-    padding: 30px 20px;
-    background: #fff;
-    display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .LiveData > div > div p:first-child{
@@ -23,4 +14,5 @@
     font-weight: 600;
     color: #30313a;
 }
+
 
