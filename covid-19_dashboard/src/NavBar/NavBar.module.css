@@ -8,6 +8,7 @@
     padding: 0 30px;
     display: flex;
     align-items: center;
+    
 }
 
 .NavBar img{
@@ -28,27 +29,52 @@
     font-size: 25px;
     font-weight: 600;
     color: #ff0019;
-    padding-right: 273px;
+    text-decoration: none;
+}
+
+.NavBar nav{
+    margin: 0 270px;
 }
 
 .NavBar ul li{
     padding: 0 10px;
-    height: 100%;
 }
 
-.NavBar a {
-    text-decoration: none;
-    padding: 27px 0;
-    color: #000;
-    font-weight: 500;
-    height: 100%;
+.DrawerToggle {
+    display: none;
+        
+    
 }
 
-.NavBar a:hover{
-    border-bottom: 3px solid #ff0019;
-    color: #ff0019;
+.DrawerToggle div {
+    width: 90%;
+    height: 3px;
+    background-color: #ff0019;
+    margin: 5px 0;
 }
 
-.NavBar > ul a:hover{
-    border-bottom: none;
+
+
+@media(max-width:1024px){
+
+    .NavBar{
+        justify-content: space-between;
+    }
+
+    .NavBar nav{
+        display: none;
+    }
+
+    .DrawerToggle{
+        width: 40px;
+        height: 100%;
+        display: flex;
+        flex-flow: column;
+        justify-content: space-around;
+        align-items: center;
+        padding: 10px 0;
+        cursor: pointer;
+    }
+    
 }
+

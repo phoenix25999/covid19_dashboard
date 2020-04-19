@@ -1,8 +1,14 @@
-import React from 'react';
+import React, { useState } from 'react';
+import NavItem from './NavItem/NavItem';
+import SideDrawer from '../SideDrawer/SideDrawer';
+
 import styles from './NavBar.module.css';
 import VirusLogo from '../assets/virus.png';
 
-const navBar = () => {
+const NavBar = () => {
+    
+    const[showSideDrawer, setShowSideDrawer] = useState(false);
+
     return(
         <header className={styles.NavBar}>
             
@@ -13,14 +19,22 @@ const navBar = () => {
                     
                 <nav >
                     <ul>
-                        <li><a href="/">Home</a></li>
-                        <li><a href="/">FAQ</a></li>
-                        <li><a href="/">HELPFUL LINKS</a></li>
+                        <NavItem link='/' exact>HOME</NavItem>
+                        <NavItem link='/FAQ'>FAQ</NavItem>
+                        <NavItem link='/helpful-links'>HELPFUL LINKS</NavItem>
                     </ul>
                 </nav>
+
+                <div className={styles.DrawerToggle} onClick={()=> setShowSideDrawer(!showSideDrawer)} >
+                    <div></div>
+                    <div></div>
+                    <div></div>
+                </div>
+
+                {showSideDrawer ? <SideDrawer open={showSideDrawer} close={()=>setShowSideDrawer(!showSideDrawer)} /> : null}
             
         </header>
     );
 }
 
-export default navBar;
+export default NavBar;

@@ -1,0 +1,22 @@
+.LiveData{
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+
+.LiveData > div > div p:first-child{
+    font-size: 10px;
+    font-weight: 500;
+    color: #52586a;
+}
+
+.LiveData > div > div p:nth-child(2){
+    font-weight: 600;
+    color: #30313a;
+}
+
+@media(max-width:500px){
+    .LiveData{
+        flex-direction: column;
+    }
+}

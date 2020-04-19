@@ -1,0 +1,16 @@
+.NavItem a {
+    text-decoration: none;
+    padding: 27px 0;
+    color: #000;
+    font-weight: 500;
+    height: 100%;
+}
+
+.NavItem a:hover, 
+.NavItem a:active, 
+.NavItem a.active{
+    border-bottom: 3px solid #ff0019;
+    color: #ff0019;
+}
+
+
