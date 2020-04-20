@@ -15,9 +15,16 @@ import styles from './LiveData.module.css';
  
 
 class LiveData extends Component{
+  
 
     componentDidMount(){
         this.props.fetchData();
+
+        this.intervalID = setInterval(this.props.fetchData.bind(this), 10000);
+    }
+
+    componentWillUnmount(){
+        clearInterval(this.intervalID);
     }
 
     render(){

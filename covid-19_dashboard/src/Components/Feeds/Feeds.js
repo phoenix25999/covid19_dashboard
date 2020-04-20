@@ -30,6 +30,7 @@ class Feeds extends Component{
                 const tweetData = [];
                 for(let i in twitterJson){
                     tweetData.push({
+                        id: twitterJson[i].id,
                         name: twitterJson[i].user.name,
                         handle: twitterJson[i].user.screen_name,
                         text: twitterJson[i].text,
@@ -46,7 +47,7 @@ class Feeds extends Component{
         
         let tweet = this.state.tweets.map(tweet=> {
             return(
-                <div>
+                <div key={tweet.id}>
                     <div className={styles.Head}>
                         <img src={tweet.profilePic} alt="pic" />
                         <div>

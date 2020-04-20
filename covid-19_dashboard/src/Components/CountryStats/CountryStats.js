@@ -10,7 +10,16 @@ class CountryStats extends Component{
 
 
     componentDidMount(){
+        this.fetchCountryData();
         
+        this.intervalId = setInterval(this.fetchCountryData.bind(this), 10000);             
+    }
+
+    componentWillUnmount(){
+        clearInterval(this.intervalID);
+    }
+
+    fetchCountryData = () => {
         fetch('https://corona-api.com/countries')
             .then(res=> res.json())
             .then(result=> {
@@ -27,9 +36,7 @@ class CountryStats extends Component{
                 }
                 updatedCountryData.sort(this.compare);
                 this.setState({countryData: updatedCountryData});
-                
-            });         
-                     
+            }); 
     }
 
     compare = (a,b) => {

@@ -15,6 +15,16 @@ class SpreadTrends extends Component{
         showDeaths: false 
     }
     componentDidMount(){
+        this.fetchSpreadTrends();
+        
+        this.intervalId = setInterval(this.fetchSpreadTrends.bind(this), 10000);
+    }
+
+    componentWillUnmount(){
+        clearInterval(this.intervalID);
+    }
+
+    fetchSpreadTrends = () => {
         fetch('https://corona.lmao.ninja/v2/historical/all')
             .then(response=> response.json())
             .then(res=> {
@@ -33,8 +43,6 @@ class SpreadTrends extends Component{
                 this.setState({dates:dates, totalCases: cnfCases, recCases: recoveredCases, deaths:deathCases});
                 
             });
-            
-    
     }
 
     onTotalHandler = () =>{
@@ -105,7 +113,7 @@ class SpreadTrends extends Component{
                         legend: {
                             display: false
                         },
-                        maintainAspectRatio:false
+                        
                     }}
                     
                     

@@ -12,6 +12,16 @@ class News extends Component{
     }
 
     componentDidMount(){
+        this.fetchNews();
+        
+        this.intervalId = setInterval(this.fetchNews.bind(this), 10000);
+    }
+
+    componentWillUnmount(){
+        clearInterval(this.intervalID);
+    }
+
+    fetchNews = () => {
         fetch('https://newsapi.org/v2/top-headlines?q=COVID&from=2020-04-10&sortBy=publishedAt&apiKey=59d820ab09d94ab295dd95bdfee6f56b&pageSize=10&language=en')
             .then(response => response.json())
             .then(res=> {
@@ -25,7 +35,6 @@ class News extends Component{
                     });
                 }
                 this.setState({articles: articleList});
-                console.log(this.state.articles);
             });
     }
 
@@ -40,7 +49,6 @@ class News extends Component{
         let dots = this.state.articles.map((item, index)=> {
             return <Dot slide={index} key={index} className={styles.Dot} />
         });
-        console.log(this.state.articles);
         return(
             <div className={styles.News}>
                     <h4>NEWS</h4>
