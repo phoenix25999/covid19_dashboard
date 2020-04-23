@@ -1,4 +1,8 @@
 import React, {Component} from 'react';
+import {connect} from 'react-redux';
+import * as actions from '../../store/action/index';
+import {FontAwesomeIcon} from '@fortawesome/react-fontawesome';
+import {faSearch} from '@fortawesome/free-solid-svg-icons';
 
 import styles from './CountryStats.module.css';
 class CountryStats extends Component{
@@ -10,34 +14,16 @@ class CountryStats extends Component{
 
 
     componentDidMount(){
-        this.fetchCountryData();
+        this.props.fetchCountryData();
         
-        this.intervalId = setInterval(this.fetchCountryData.bind(this), 10000);             
+        this.intervalId = setInterval(this.props.fetchCountryData.bind(this), 10000);             
     }
 
     componentWillUnmount(){
         clearInterval(this.intervalID);
     }
 
-    fetchCountryData = () => {
-        fetch('https://corona-api.com/countries')
-            .then(res=> res.json())
-            .then(result=> {
-                const updatedCountryData=[];
-                for(let i in result.data){
-                    updatedCountryData.push({
-                        name: result.data[i].name,
-                        totalCases: result.data[i].latest_data.confirmed,
-                        recoveredCases: result.data[i].latest_data.recovered,
-                        flagURL: 'https://www.countryflags.io/' + result.data[i].code + '/flat/32.png',
-                        coordinates: result.data[i].coordinates,
-                        code: result.data[i].code
-                    })
-                }
-                updatedCountryData.sort(this.compare);
-                this.setState({countryData: updatedCountryData});
-            }); 
-    }
+    
 
     compare = (a,b) => {
 
@@ -60,8 +46,7 @@ class CountryStats extends Component{
 
 
     render(){
-        
-        const searched = this.state.countryData.filter(data=> {
+        const searched = this.props.countryData.sort(this.compare).filter(data=> {
                 return this.state.searchedValue ==null ? data : data.name.toLowerCase().includes(this.state.searchedValue);
         })
 
@@ -75,7 +60,10 @@ class CountryStats extends Component{
         return(
             <div className={styles.CountryStats}>
                 <div>
-                    <input type="text" placeholder="Search" onChange={this.onChangeHandler} />
+                    <div className={styles.Search}>
+                        <FontAwesomeIcon icon={faSearch} />
+                        <input type="text" placeholder="Search Location" onChange={this.onChangeHandler} />
+                    </div>
                     <ul>
                         {countryList}
                     </ul>
@@ -85,4 +73,16 @@ class CountryStats extends Component{
     }
 }
 
-export default CountryStats;
+const mapStateToProps = state=> {
+    return{
+        countryData: state.countryData
+    }
+};
+
+const mapDispatchToProps = dispatch=> {
+    return{
+        fetchCountryData: ()=> dispatch(actions.fetchCountryData())
+    }
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(CountryStats);

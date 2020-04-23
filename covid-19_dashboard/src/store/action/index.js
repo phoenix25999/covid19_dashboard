@@ -1,1 +1,1 @@
-export {fetchAggregateData} from './action';
+export {fetchAggregateData, fetchCountryData} from './action';

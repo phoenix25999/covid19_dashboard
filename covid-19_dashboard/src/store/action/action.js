@@ -17,5 +17,22 @@ export const fetchAggregateData = () => {
     }
 }
 
+export const fetchCountryDataSuccess = (countryData) => {
+    return{
+        type: actionTypes.FETCH_COUNTRY_DATA_SUCCESS,
+        data: countryData
+    }
+}
+
+export const fetchCountryData = () => {
+   return dispatch => {
+    fetch('https://corona-api.com/countries')
+        .then(response=>response.json())
+        .then(result=> {
+            dispatch(fetchCountryDataSuccess(result.data));
+        });
+   }
+}
+
 
 

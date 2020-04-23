@@ -40,8 +40,10 @@ class News extends Component{
 
     render(){
         let show = null;
+        let i =[];
         if(this.state.articles){
         show = this.state.articles.map((item, index)=> {
+            i.push(index);
                 return <Slide index={index} key={index}><NewsBlock articles={item}/></Slide>;    
             });
         }
@@ -55,7 +57,9 @@ class News extends Component{
                 <CarouselProvider
                     naturalSlideWidth={100}
                     naturalSlideHeight={50}
-                    totalSlides={10} >
+                    totalSlides={10}
+                    interval={5000}
+                    isPlaying={true} >
                     <Slider >
                         {show}
                     </Slider>

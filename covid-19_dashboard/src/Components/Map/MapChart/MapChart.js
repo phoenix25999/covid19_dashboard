@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { csv } from "d3-fetch";
+import React, {Component } from "react";
+import {connect} from 'react-redux';
 import { scaleLinear } from "d3-scale";
 import {
   ComposableMap,
@@ -8,11 +8,11 @@ import {
   Sphere,
   ZoomableGroup
 } from "react-simple-maps";
+import * as actions from '../../../store/action/index';
 
-const geoUrl =
-  "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
-
-  const rounded = num => {
+class MapChart extends Component{
+  
+  rounded = num => {
     if (num > 1000000000) {
       return Math.round(num / 100000000) / 10 + "Bn";
     } else if (num > 1000000) {
@@ -22,19 +22,15 @@ const geoUrl =
     }
   };
 
+  render(){
+    const geoUrl =
+  "https://raw.githubusercontent.com/zcreativelabs/react-simple-maps/master/topojson-maps/world-110m.json";
+
+  
+
 const colorScale = scaleLinear()
   .domain([2000, 80000])
   .range(["#ffc4c6", "#ff0019"]);
-
-const MapChart = ({ setTooltipContent }, props) => {
-  const [data, setData] = useState([]);
-
-  useEffect(() => {
-    csv(`/country-data.csv`).then(data => {
-      setData(data);
-    });
-  }, []);
-  
   return (
     <ComposableMap
     style={{background:'#fbf6f6', borderRadius:'7px'}}
@@ -46,21 +42,21 @@ const MapChart = ({ setTooltipContent }, props) => {
     >
       <ZoomableGroup >
         <Sphere stroke="#E4E5E6" strokeWidth={0.5} />
-        {data.length > 0 && (
+        
           <Geographies geography={geoUrl}>
             {({ geographies }) =>
               geographies.map(geo => {
-                const d = data.find(s => s.ISO3 === geo.properties.ISO_A3);
+                const d = this.props.countryData.find(s => s.code === geo.properties.ISO_A2);
                 return (
                   <Geography
                     key={geo.rsmKey}
                     geography={geo}
-                    fill={d ? colorScale(d["total"]) : "#FFF"}
+                    fill={d ? colorScale(d["totalCases"]) : "#FFF"}
                     onMouseEnter={() => {
-                      setTooltipContent(`${d.Name} — ${d.total > 999 ?rounded(d.total): d.total}`);
+                      this.props.setTooltipContent(`${d.name} — ${d.totalCases > 999 ?this.rounded(d.totalCases): d.totalCases}`);
                     }}
                     onMouseLeave={() => {
-                      setTooltipContent("");
+                      this.props.setTooltipContent("");
                     }}
                     style={{
                       hover: {
@@ -77,10 +73,23 @@ const MapChart = ({ setTooltipContent }, props) => {
               })
             }
           </Geographies>
-        )}
+        
     </ZoomableGroup>
     </ComposableMap>
   );
+}
+}
+
+const mapStateToProps = state=> {
+  return{
+      countryData: state.countryData
+  }
 };
 
-export default MapChart;
+const mapDispatchToProps = dispatch=> {
+  return{
+      fetchCountryData: ()=> dispatch(actions.fetchCountryData())
+  }
+};
+
+export default connect(mapStateToProps, mapDispatchToProps)(MapChart);
