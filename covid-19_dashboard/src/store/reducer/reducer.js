@@ -13,10 +13,10 @@ const reducer = (state = initialState, action) => {
         case actionTypes.FETCH_AGGREGATE_DATA_SUCCESS:
             return{
                 ...state,
-                total: action.data.total_cases,
-                recovered: action.data.recovery_cases,
-                active: action.data.currently_infected,
-                death: action.data.death_cases
+                total: action.data.TotalConfirmed,
+                recovered: action.data.TotalRecovered,
+                active: action.data.TotalConfirmed-(action.data.TotalRecovered+action.data.TotalDeaths),
+                death: action.data.TotalDeaths
             };
         case actionTypes.FETCH_COUNTRY_DATA_SUCCESS:
             const updatedCountryData=[];
@@ -30,6 +30,7 @@ const reducer = (state = initialState, action) => {
                     code: action.data[i].code
                 })
             }
+            console.log(state);
             return{
                 ...state,
                 countryData: updatedCountryData

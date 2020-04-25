@@ -13,10 +13,7 @@ const circleConfig = {
 const recoveryRatio = (props) => {
     let recovered = props.recovered;
     let total = props.total;
-    if(props.recovered){
-    recovered = props.recovered.replace(/,/g, "");
-    total = props.total.replace(/,/g, "");
-    }
+    
     let ratio = ((recovered/total)*100).toFixed(1);
     return( 
         <div  className={styles.RecoveryRatio}> 

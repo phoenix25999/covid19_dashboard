@@ -9,10 +9,10 @@ export const fetchAggregateDataSuccess = ( data ) => {
 
 export const fetchAggregateData = () => {
     return dispatch => {
-        fetch('https://corona-virus-stats.herokuapp.com/api/v1/cases/general-stats')
+        fetch('https://api.covid19api.com/summary')
                 .then(response=> response.json())
                 .then(result=> {
-                    dispatch(fetchAggregateDataSuccess(result.data));
+                    dispatch(fetchAggregateDataSuccess(result.Global));
                 });       
     }
 }
